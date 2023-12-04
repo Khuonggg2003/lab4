@@ -1,0 +1,13 @@
+main.c:66:6:Counter	4	static
+main.c:70:6:blinking1	48	static
+main.c:79:6:blinking2	48	static
+main.c:88:6:blinking3	48	static
+main.c:97:6:blinking4	48	static
+main.c:106:6:blinking5	48	static
+main.c:122:5:main	8	static
+main.c:177:6:SystemClock_Config	72	static
+main.c:213:13:MX_TIM2_Init	32	static
+main.c:258:13:MX_USART1_UART_Init	8	static
+main.c:291:13:MX_GPIO_Init	32	static
+main.c:314:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:323:6:Error_Handler	4	static,ignoring_inline_asm
